@@ -7,8 +7,8 @@ var mysql = require('mysql');
 var connection = mysql.createConnection({
   host     : 'cis450.c5rvqqjl9c91.us-east-1.rds.amazonaws.com',
   user     : 'cis450',
-  password : 'cis450team40',
-  database : 'project'
+  password : '',
+  database : ''
 });
 // 147561825462-a04fittba8hpc0fqtd00abarboa07tli.apps.googleusercontent.com
 // y4XCfko-sOuVq8eq5WpVPE5F
