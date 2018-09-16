@@ -1,1 +1,1 @@
-# CIS550Team40Fall2017
+CIS 550 Final Project. Created a more comprehensive way to search for past courses than what currently exists on PennCourseReview. Users can do advanced searches with filters like class meeting days, class meeting times, class difficulty, professor rating, and more. 
